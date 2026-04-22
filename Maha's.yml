@@ -1,15 +1,11 @@
 info:
-  name: testtt 2
+  name: Maha's
   type: http
   seq: 3
 
 http:
   method: GET
-  url: ?changedBy=maha
-  params:
-    - name: changedBy
-      value: maha
-      type: query
+  url: www.google.com
   auth: inherit
 
 settings:
