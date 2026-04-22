@@ -5,10 +5,10 @@ info:
 
 http:
   method: GET
-  url: ?changedBy=maha
+  url: ?changedBy=maha2
   params:
     - name: changedBy
-      value: maha
+      value: maha2
       type: query
   auth: inherit
 
